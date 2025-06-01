@@ -1,0 +1,6 @@
+[submodule "podcast-generator-clone"]
+	path = podcast-generator-clone
+	url = git@github.com:Andrew-Jeffrey-Johnson/podcast-generator.git
+[submodule "podcst-test-clone"]
+	path = podcst-test-clone
+	url = git@github.com:Andrew-Jeffrey-Johnson/podcast-test.git
